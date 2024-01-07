@@ -1,0 +1,1 @@
+deathSprite = noone;
