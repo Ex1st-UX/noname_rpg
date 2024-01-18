@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "weed_end",
-  "bbox_bottom": 31,
+  "bbox_bottom": 77,
   "bbox_left": 0,
-  "bbox_right": 31,
+  "bbox_right": 199,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"38c40882-381c-43c6-98ee-559f2ed846d4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1014a6e7-ad0d-4ef0-aea0-c55bf76c517e",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 78,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"82853266-42ab-45fc-89a6-076b932ac4a4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dcde9520-c710-48c2-b722-35f5c72484a2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"38c40882-381c-43c6-98ee-559f2ed846d4","path":"sprites/weed_end/weed_end.yy",},},},"Disabled":false,"id":"46daec1e-4643-427f-91f2-d19acf03aeb3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1014a6e7-ad0d-4ef0-aea0-c55bf76c517e","path":"sprites/weed_end/weed_end.yy",},},},"Disabled":false,"id":"81a184ca-9422-4a59-957a-97c9d5ab8ac8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 200,
 }

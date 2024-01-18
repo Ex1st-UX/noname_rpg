@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "weed",
-  "bbox_bottom": 31,
+  "bbox_bottom": 75,
   "bbox_left": 0,
-  "bbox_right": 31,
+  "bbox_right": 77,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e964fa51-103e-4e24-a1de-b87dc120f691",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82a34cb8-e0c7-4e9d-8c96-ad40d9a5e442",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 76,
   "HTile": true,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d7be4082-eee5-4d91-b3bc-f757f0bfdbec","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"522aac33-79fc-408b-981a-1529749671a0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e964fa51-103e-4e24-a1de-b87dc120f691","path":"sprites/weed/weed.yy",},},},"Disabled":false,"id":"975f6f54-39cc-4521-843f-7d78ab956ae7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"82a34cb8-e0c7-4e9d-8c96-ad40d9a5e442","path":"sprites/weed/weed.yy",},},},"Disabled":false,"id":"4964a299-d3e1-4c3a-9c2c-4f485cfdb6a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 78,
 }
